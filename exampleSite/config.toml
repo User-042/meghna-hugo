@@ -1,5 +1,5 @@
 baseURL = "hugo.101internet.ml"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
